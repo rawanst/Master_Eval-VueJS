@@ -1,0 +1,95 @@
+{
+  "utilisateurs": [
+    {
+      "id": 1,
+      "pseudo": "Alain",
+      "email": "alain@yahoo.fr",
+      "password": "123456",
+      "urlImgProfil": "https://randomuser.me/api/portraits/men/89.jpg"
+    },
+    {
+      "id": 2,
+      "pseudo": "Béatrice",
+      "email": "bea@yahoo.fr",
+      "password": "123456",
+      "urlImgProfil": "https://randomuser.me/api/portraits/women/91.jpg"
+    },
+    {
+      "pseudo": "rawan",
+      "email": "rawantabaja12@gmail.com",
+      "password": "123456",
+      "urlImgProfil": "https://media-exp1.licdn.com/dms/image/C4D03AQFR-dLNPKwZIA/profile-displayphoto-shrink_100_100/0/1638261426970?e=1655942400&v=beta&t=M2vuSw3wieSGwTPQtpaq-AovVNqBDLGPCxAUjTGNSaM",
+      "id": 3
+    }
+  ],
+  "articles": [
+    {
+      "id": 1,
+      "contenu": "lorem ipsum",
+      "urlImgArticle": "https://images.ctfassets.net/hrltx12pl8hq/7yQR5uJhwEkRfjwMFJ7bUK/dc52a0913e8ff8b5c276177890eb0129/offset_comp_772626-opt.jpg?fit=fill&w=800&h=300",
+      "like": 2,
+      "pseudo": "Alain",
+      "": "",
+      "date": "lundi 11 avril 2022, 19:30:37",
+      "commentaires": [
+        {
+          "id": 1,
+          "contenu": "lorem ipsum",
+          "pseudo": "Béatrice",
+          "dt": 1649277945051
+        },
+        {
+          "id": 2,
+          "contenu": "lorem ipsum",
+          "pseudo": "Béatrice",
+          "dt": 1649277945051
+        },
+        {
+          "contenu": "lorem",
+          "pseudo": "Alain",
+          "dt": "mercredi 20 avril 2022, 22:53:54"
+        },
+        {
+          "contenu": "lorem",
+          "pseudo": "rawan",
+          "dt": "mercredi 20 avril 2022, 22:55:53"
+        }
+      ],
+      "urlImgProfil": "https://randomuser.me/api/portraits/men/89.jpg"
+    },
+    {
+      "id": 2,
+      "contenu": "Bonjour",
+      "urlImgArticle": "https://static.remove.bg/remove-bg-web/5cc729f2c60683544f035949b665ce17223fd2ec/assets/start_remove-c851bdf8d3127a24e2d137a55b1b427378cd17385b01aec6e59d5d4b5f39d2ec.png",
+      "like": 0,
+      "pseudo": "Béatrice",
+      "date": "vendredi 15 avril 2022, 15:21:24",
+      "commentaires": [
+        {
+          "contenu": "Salut",
+          "pseudo": "Alain",
+          "dt": "mercredi 20 avril 2022, 21:14:02"
+        }
+      ],
+      "urlImgProfil": "https://randomuser.me/api/portraits/women/91.jpg"
+    },
+    {
+      "contenu": "hey",
+      "like": 0,
+      "pseudo": "Alain",
+      "date": "samedi 16 avril 2022, 21:22:34",
+      "commentaires": [],
+      "urlImgArticle": "images.ctfassets.net/hrltx12pl8hq/3j5RylRv1ZdswxcBaMi0y7/b84fa97296bd2350db6ea194c0dce7db/Music_Icon.jpg",
+      "id": 3
+    },
+    {
+      "contenu": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,\nmolestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum\nnumquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium\noptio, eaque rerum! Provident similique accusantium nemo autem. Veritatis\nobcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam\nnihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit,\ntenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,\nquia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \nsapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\nrecusandae alias error harum maxime adipisci amet laborum. Perspiciatis \nminima nesciunt dolorem! Officiis iure rerum voluptates a cumque velit \nquibusdam sed amet tempora. Sit laborum ab, eius fugit doloribus tenetur",
+      "like": 0,
+      "pseudo": "rawan",
+      "date": "samedi 16 avril 2022, 21:55:05",
+      "commentaires": [],
+      "urlImgArticle": "media.istockphoto.com/photos/colored-powder-explosion-on-black-background-picture-id1140180560?k=20&m=1140180560&s=612x612&w=0&h=X_400OQDFQGqccORnKt2PHYvTZ3dBLeEnCH_hRiUQrY=",
+      "id": 4
+    }
+  ]
+}
